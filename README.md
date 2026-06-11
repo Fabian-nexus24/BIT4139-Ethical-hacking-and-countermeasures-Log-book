@@ -9,7 +9,7 @@
 
 ## Overview
 
-This repository contains the weekly lab logbook for the BIT4138 Ethical Hacking and Countermeasures unit. Each week covers a hands-on practical exercise using industry-standard security tools in a controlled, authorized lab environment. All scans and tests were conducted exclusively on local machines, local networks, or publicly available passive sources — never on unauthorized systems.
+This repository contains the weekly lab logbook for the BIT4139 Ethical Hacking and Countermeasures unit. Each week covers a hands-on practical exercise using industry-standard security tools in a controlled, authorized lab environment. All scans and tests were conducted exclusively on local machines, local networks, or publicly available passive sources — never on unauthorized systems.
 
 ---
 
