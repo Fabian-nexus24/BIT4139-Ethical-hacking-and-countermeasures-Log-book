@@ -1,6 +1,6 @@
 # Ethical Hacking & Countermeasures — Lab Logbook
 
-> **Unit:** BIT4138 — Ethical Hacking and Countermeasures  
+> **Unit:** BIT4139 — Ethical Hacking and Countermeasures  
 > **Course:** Bachelor of Science in Computer Science  
 > **Semester / Year:** 2026  
 > **Lecturer:** Michael Nyoro
